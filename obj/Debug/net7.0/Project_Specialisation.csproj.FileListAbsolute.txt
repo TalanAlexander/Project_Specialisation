@@ -1,0 +1,15 @@
+C:\Users\talan\Desktop\FS\Project_Specialisation\obj\Debug\net7.0\Project_Specialisation.csproj.AssemblyReference.cache
+C:\Users\talan\Desktop\FS\Project_Specialisation\obj\Debug\net7.0\Project_Specialisation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talan\Desktop\FS\Project_Specialisation\obj\Debug\net7.0\Project_Specialisation.AssemblyInfoInputs.cache
+C:\Users\talan\Desktop\FS\Project_Specialisation\obj\Debug\net7.0\Project_Specialisation.AssemblyInfo.cs
+C:\Users\talan\Desktop\FS\Project_Specialisation\obj\Debug\net7.0\Project_Specialisation.csproj.CoreCompileInputs.cache
+C:\Users\talan\Desktop\FS\Project_Specialisation\bin\Debug\net7.0\Project_Specialisation.exe
+C:\Users\talan\Desktop\FS\Project_Specialisation\bin\Debug\net7.0\Project_Specialisation.deps.json
+C:\Users\talan\Desktop\FS\Project_Specialisation\bin\Debug\net7.0\Project_Specialisation.runtimeconfig.json
+C:\Users\talan\Desktop\FS\Project_Specialisation\bin\Debug\net7.0\Project_Specialisation.dll
+C:\Users\talan\Desktop\FS\Project_Specialisation\bin\Debug\net7.0\Project_Specialisation.pdb
+C:\Users\talan\Desktop\FS\Project_Specialisation\obj\Debug\net7.0\Project_Specialisation.dll
+C:\Users\talan\Desktop\FS\Project_Specialisation\obj\Debug\net7.0\refint\Project_Specialisation.dll
+C:\Users\talan\Desktop\FS\Project_Specialisation\obj\Debug\net7.0\Project_Specialisation.pdb
+C:\Users\talan\Desktop\FS\Project_Specialisation\obj\Debug\net7.0\Project_Specialisation.genruntimeconfig.cache
+C:\Users\talan\Desktop\FS\Project_Specialisation\obj\Debug\net7.0\ref\Project_Specialisation.dll
